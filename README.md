@@ -1,6 +1,6 @@
 # BI279 Genetics
 
-![](images/header_waxwing1.jpg)
+![](/Users/drangeli/Desktop/header_waxwing1.jpg)
 
 **Colby College  -  Fall 2025  -  Syllabus**
 
@@ -18,7 +18,7 @@ Office hours: Wednesdays 12:00 - 1:00 pm, Thursdays 10:30 - noon, or by appointm
 
 ### Prerequisite
 
-[BI164 Evolution & Diversity](https://github.com/aphanotus/openEd/tree/main/BI164.Evolution.and.Diversity#bi164-evolution--diversity)
+[BI164 Evolution & Diversity](https://github.com/aphanotus/BI164.Evolution.and.Diversity?tab=readme-ov-file#bi164-evolution--diversity)
 
 ### Course Description
 
@@ -148,7 +148,7 @@ Confidential support services:
 
 ### Accommodations for public health
 
-If you experience symptoms of a contagious respiratory illness, such as [covid-19](https://www.cdc.gov/covid/signs-symptoms/) or [flu](https://www.cdc.gov/flu/signs-symptoms/index.html), please attend class if wearing a [KN-95](https://www.cdc.gov/respiratory-viruses/prevention/masks.html) face mask or similar design.
+If you experience symptoms of a contagious respiratory illness, such as [covid-19](https://www.cdc.gov/covid/signs-symptoms/) or [flu](https://www.cdc.gov/flu/signs-symptoms/index.html), please only attend class if you wear a [KN-95](https://www.cdc.gov/respiratory-viruses/prevention/masks.html) face mask or similar design.
 
 ![](images/header_waxwing2.jpg)
 
