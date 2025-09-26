@@ -1,6 +1,6 @@
 # BI279 Genetics
 
-![](/Users/drangeli/Desktop/header_waxwing1.jpg)
+![](images/header_waxwing1.jpg)
 
 **Colby College  -  Fall 2025  -  Syllabus**
 
