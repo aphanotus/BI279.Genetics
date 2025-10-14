@@ -1,0 +1,44 @@
+# BI279 Glossary
+
+## Week 8: transmission genetic
+
+- **Gene**: A segment of DNA that is responsible for one or more phenotypes. Operationally defined as a unit of inheritance.
+- **Allele**: Different versions of a gene. In a diploid organism, there can be up to two different alleles at a single locus.
+- **Locus** (pl. **Loci**): A specific position, region, or segment along a chromosome where a gene is located. Defined genetically, but not necessarily at the molecular level.
+- **Genotype**: The complete set of alleles in an individual at all loci of interest.
+- **Phenotype**: The observable or detectable effect of alleles on the structure or function of an individual.
+- **Dominant** (Allele/Phenotype): An allele or trait that requires only one copy (in a diploid organism) to be expressed in the phenotype.
+- **Recessive** (Allele/Phenotype): An allele or trait that requires two copies (homozygous state) to be expressed in the phenotype.
+- **Homozygous**: A genotype in which both alleles of a particular gene are the same.
+- **Heterozygous**: A genotype in which the two alleles of a particular gene are different (can be distinguished) from each other.
+- **True-breeding** (or **Pure-breeding**): Individuals who are homozygous for the alleles affecting a trait of interest, such that offspring always have the same phenotype over many generations.
+- **Hybrid**: An individual who is heterozygous for a specific gene (monohybrid) or genes (dihybrid, trihybrid, etc.).
+- **Gregor Mendel**: One of the first researchers to systematically study patterns of inheritance using mathematics.
+- **Allelic segregation** (also called the Law of Equal Segregation or Mendel’s First Law): The principle that  the two alleles for a trait segregate (separate) with equal probability into gametes during meiosis.
+- **Independent Assortment** (also called Mendel’s Second Law): States that alleles at separate loci segregate independently of each other during gamete formation.
+- **Monohybrid Cross**: A cross in which both parents are heterozygous for a single trait.
+- **Dihybrid Cross**: A cross involving individuals who are heterozygous for two separate traits (e.g., AaBb x AaBb).
+- **Testcross**: A cross typically used to identify the genotype of an individual expressing a dominant trait by mating it with a homozygous recessive individual.
+- **Punnett Square**: A diagrammatic tool used to calculate the probability of offspring phenotypes and genotypes resulting from a cross, based on the principle of equal segregation.
+- **Complete Dominance**: An allelic relationship where the phenotype of the heterozygote is identical to the phenotype of the dominant homozygote.
+- **Partial Dominance** (also called Incomplete Dominance): An allelic relationship where the heterozygote exhibits a phenotype that is intermediate compared to the two homozygotes.
+- **Codominance**: An allelic relationship where both alleles are simultaneously and fully expressed in the phenotype of the heterozygote (e.g., the AB blood type).
+- **Multiple Alleles**: The existence of three or more distinct alleles for a single gene locus within a population.
+- **ABO Blood Group**: A classic example of multiple alleles where three alleles exist at a single locus, demonstrating both codominance and complete dominance.
+- **Haploinsufficient**: Describes a gene where a single functional copy of the allele is insufficient to produce the wild-type phenotype, often resulting in a dominant mutant phenotype.
+- **Loss-of-function mutation**: A mutation that reduces or eliminates the normal function of a gene product; these mutations are often recessive.
+- **Gain-of-function mutation**: A mutation that causes a gene to do something extra or new, or causes the protein to be active when it should be inactive; these mutations are often dominant.
+- **Hemizygous**: A genotype in which only one copy of a gene is present, such as genes located on the single X chromosome in human males.
+- **Compound heterozygotes**: Individuals who have two different mutant alleles (different base pair changes) at a given locus.
+- **Pedigree**: A pictorial representation of a family history or family tree outlining the inheritance of one or more traits.
+- **Mode of inheritance**: The pattern by which a trait is inherited (e.g., autosomal dominant, X-linked recessive, etc.).
+- **Proband**: The affected individual who first brings the family to the attention of a geneticist.
+- **Carrier**: An individual who does not express the symptoms of a disease but possesses a recessive mutant allele that can be passed to offspring.
+- **Autosomal Dominant**: A mode of inheritance where the trait is controlled by a gene on an autosome, and only one copy of the allele is required for the phenotype to be expressed.
+- **Autosomal Recessive**: A mode of inheritance where the trait is controlled by a gene on an autosome, and two copies of the allele are required for the phenotype to be expressed.
+- **Incomplete Penetrance**: Occurs when an individual has the genotype for a trait but does not express the corresponding phenotype.
+- **Variable Expressivity**: Occurs when individuals with the same genotype exhibit a range in the severity or expression of a phenotype.
+- **Chi-square test**: A statistical test used to compare observed genetic data (such as offspring ratios) with the results expected from a hypothetical genetic model.
+- **AND Rule** (**Product Rule** or **Multiplication Rule**): A rule of probability used to calculate the likelihood of two or more independent events (like segregation of alleles at two different loci) occurring together.
+- **OR Rule** (**Sum Rule** or Addition Rule): A rule of probability used to calculate the likelihood of any one of two or more mutually exclusive events occurring.
+- **Phenotypic Classes**: The distinct combinations of phenotypes observed among the progeny of a cross (e.g., four classes in a dihybrid cross: AB, Ab, aB, and ab).
