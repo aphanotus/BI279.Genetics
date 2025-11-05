@@ -1,0 +1,41 @@
+# BI279 Glossary
+
+## Week 11: Advanced mapping techniques; haploid genetics; chromosomal abnormalities 
+
+- **Molecular markers:** Short segments of DNA with known sequence and location that serve as landmarks for physical mapping.
+- **Polymorphism:** A variation in DNA sequence present in more than 1% of the population, often not associated with disease.
+- **SNP (Single Nucleotide Polymorphism):** A single position (nucleotide) in the genome where different variants (alleles) are seen in different people.
+- **RFLP (Restriction Fragment Length Polymorphism):** A polymorphic site where a sequence change creates or destroys a restriction enzyme cutting site.
+- **Linkage disequilibrium:** Occurs when certain genetic variants co-occur more often than expected, suggesting they are inherited together due to linkage.
+- **Microsatellites (Short tandem repeats, STRs):** Short repetitive DNA sequences (2–6 nucleotides) that vary in the number of repeats at a given site; used as molecular markers.
+- **Restriction fragment length polymorphisms (RFLPs):** Polymorphic sites where a sequence change creates or destroys a restriction enzyme cutting site.
+- **Genome-wide association studies (GWAS):** A modern mapping technique comparing millions of sequence variants (usually **SNPs**) across the entire genome in case and control groups to find associations with a phenotype.
+- **Reference panel:** A panel of DNA samples from people with known origins used for comparison to estimate a customer’s ethnicity.
+- **PCA (Principal Component Analysis):** A statistical method frequently used to analyze and visualize genetic variation separating distinct populations.
+- **Admixed:** Having ancestry from multiple populations.
+- **Tetrad analysis:** A special mapping technique used for haploid eukaryotes where the meiotic products (the meiotic tetrad) are contained within a single structure.
+- **Ascospore:** The haploid meiotic products (spores) in organisms like yeast or *Neurospora* contained within an ascus.
+- **Ordered tetrad:** A linear arrangement of spores in the ascus that reflects the orientation of the four chromatids at metaphase I, allowing for mapping of genes relative to the centromere.
+- **First-division segregation:** Segregation of alleles into separate nuclear areas after Meiosis I (a 4:4 pattern in ordered tetrads).
+- **Second-division segregation:** Segregation of alleles that does not occur until Meiosis II (requires a crossover between the gene and the centromere).
+- **Gene–centromere distance:** Map distance calculated in ordered tetrads using the formula: (percent of second-division tetrads) / 2.
+- **Parental ditype (PD):** A tetrad containing only two types of meiotic products, both of which are of the parental type.
+- **Nonparental ditype (NPD):** A tetrad containing only two types of meiotic products, both of which are of the non-parental (recombinant) type.
+- **Tetratype (T):** A tetrad containing two parental types and two recombinant types.
+- **Aneuploidy:** An organism gains or loses one or more chromosomes but not a complete set.
+- **Monosomy:** The loss of one chromosome from an otherwise diploid genome (2n - 1).
+- **Trisomy:** The gain of one extraneous chromosome (2n + 1).
+- **Euploid:** An individual with the appropriate number of chromosomes for their species (e.g., 22 pairs of autosomes and one pair of sex chromosomes in humans).
+- **Polyploidy:** The condition where more than two haploid sets of chromosomes are present (e.g., triploid, tetraploid).
+- **Nondisjunction:** The failure of paired homologous chromosomes or sister chromatids to properly separate and migrate during meiosis (or mitosis).
+- **Chromosomal aberrations (or mutations):** Changes that delete, add, or rearrange substantial portions of one or more chromosomes.
+- **Cri-du-chat syndrome (Segmental deletion):** A syndrome resulting from the deletion of most of the small arm of chromosome 5, causing nervous system abnormalities and identifiable physical features.
+- **Deletion (Deficiency):** A break in a chromosome resulting in a missing piece or portion of it being lost.
+- **Duplication:** Any part of the genetic material is present more than once in the genome.
+- **Inversion (Chromosome inversion):** A structural variation where a segment of a chromosome is turned around 180 degrees within the chromosome.
+- **Paracentric inversion:** An inversion where the centromere is *not* part of the rearranged chromosome segment.
+- **Pericentric inversion:** An inversion where the centromere *is* part of the inverted segment.
+- **Translocation:** The movement of a chromosomal segment to a new location in the genome, or when a segment breaks and reattaches to a different, nonhomologous chromosome.
+- **Reciprocal translocation:** An exchange of segments between two nonhomologous chromosomes resulting in a rearrangement but no gain or loss of genetic information.
+- **Balancer chromosome:** Essential genetic tools used to maintain recessive deleterious mutations in stable stocks and prevent meiotic recombination.
+- **Inversion breakpoints:** Chromosomal regions on balancers that prevent the recovery of recombinant chromosomes by inhibiting synapsis and producing aneuploid gametes upon single crossover.
