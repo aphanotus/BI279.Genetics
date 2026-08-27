@@ -125,6 +125,8 @@ First, please speak with me early if you are having trouble in the course.
     <li><a href="https://davisconnects.colby.edu/">DavisConnects</a> helps students  explore internship, career, and study abroad opportunities. <a href="https://colby.joinhandshake.com/login">Make an appointment</a> with an advisor through the Handshake portal.
   </ul>
 </details>
+
+
 ### Sustainability 
 
 Environmental degradation is a serious biological and societal issue. [Colby](https://www.colby.edu/green-colby/) is committed to practices that promote environmental sustainability. To help minimize the environmental impact of this course, I encourage you to buy used textbooks. Minimize paper use by reading slides on a device when possible, rather than printing on paper. It is acceptable to take notes on a laptop or tablet during class. If you choose to print, please print double-sided on recycled paper. Multiple slides may be printed to a single sheet. Recycle unnecessary paper after the end of the semester.
@@ -146,6 +148,8 @@ Colby College prohibits [sexual misconduct or gender based discrimination](https
     <li><a href="https://www.mecasa.org/">Maine Coalition Against Sexual Assault</a> (24/7 helpline: 1-800-871-7741)
   </ul>
 </details>
+
+
 ### Accommodations for public health
 
 If you experience symptoms of a contagious respiratory illness, such as [covid-19](https://www.cdc.gov/covid/signs-symptoms/) or [flu](https://www.cdc.gov/flu/signs-symptoms/index.html), please only attend class if you wear an [N-95](https://www.cdc.gov/respiratory-viruses/prevention/masks.html) face mask or similar design.
