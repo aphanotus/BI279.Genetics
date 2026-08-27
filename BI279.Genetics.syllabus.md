@@ -6,7 +6,7 @@
 
 #### Meeting times
 
-Mondays, Wednesdays, and Fridays 11:00-11:50am, ==location TBD (hopefully in [Lovejoy 215](https://map.colby.edu/))==
+Mondays, Wednesdays, and Fridays 11:00-11:50am, **location TBD (hopefully in [Lovejoy 215](https://map.colby.edu/))**
 
 #### Instructor
 
@@ -68,14 +68,14 @@ Discussions of genetics may raise issues of sexism, racism and colonialism. Whil
 
 Your grade for BI279 will be based on a combination of points earned in the lecture and laboratory sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below.
 
-| course component                                             |   points |
-| :----------------------------------------------------------- | -------: |
-| In-class participation                                       |       45 |
-| Quizzes (required competency; 20 points for timely completion) |       80 |
-| Midterm exams (4 x 75 points each)                           |      300 |
-| Problem sets (4 x 75 points each)                            |      300 |
-| Lab                                                          |      275 |
-| **total**                                                    | **1000** |
+| course component                                            |   points |
+| :---------------------------------------------------------- | -------: |
+| In-class participation                                      |       45 |
+| Quizzes (required competency; points for timely completion) |       80 |
+| Midterm exams (4 x 75 points each)                          |      300 |
+| Problem sets (4 x 75 points each)                           |      300 |
+| Lab                                                         |      275 |
+| **total**                                                   | **1000** |
 
 #### Brief explanation of course assessments
 
