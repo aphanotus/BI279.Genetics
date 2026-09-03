@@ -6,7 +6,7 @@
 
 #### Meeting times
 
-Mondays, Wednesdays, and Fridays 11:00-11:50am, **location TBD (hopefully in [Lovejoy 215](https://map.colby.edu/))**
+Mondays, Wednesdays, and Fridays 11:00-11:50am, [Lovejoy 215](https://map.colby.edu/)
 
 #### Instructor
 
