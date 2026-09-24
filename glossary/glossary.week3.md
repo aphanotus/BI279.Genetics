@@ -1,6 +1,6 @@
 # BI279 Glossary
 
-## Week 3: Cellular DNA replication; telomeres; DNA sequencing; hybridization methods
+## Week 3: Cellular DNA replication; telomeres
 
 - **Genome language model**: An artificial intelligence model trained on large biological sequence datasets (DNA, RNA, or protein) using self-supervised techniques adapted from natural language processing. By treating nucleotide or amino acid sequences as a formal language, the model learns the underlying regulatory "grammar" and structural syntax of genomes. This enables automated predictions of gene expression, variant effects, and functional elements across diverse organisms without relying on prior sequence annotation.
 - **Replication Fork**: The Y-shaped structure formed when the DNA double helix unwinds during replication, where new DNA strands are synthesized.
