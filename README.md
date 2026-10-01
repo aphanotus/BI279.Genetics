@@ -106,6 +106,22 @@ No individual extra credit assignments will be offered.
 
 Remember that while diligent studying is typically essential for success, on its own effort is not sufficient to merit a high grade. The grade of “A” is meant to denote exceptional performance.
 
+### AI Use Policy
+
+Following our class discussions, we will adopt the following policy on the use of generative AI. AI tools can produce incorrect, incomplete, or misleading information, and you are responsible for verifying information obtained from AI and for the accuracy of anything you submit. Violation of this policy will be considered [academic dishonesty](https://www.colby.edu/academics/academic-integrity/) and will be reported to the Academic Integrity Coordinator.
+
+**Problem Sets**
+
+You may discuss the course with AI, as you might with other faculty or students, e.g. clarify terminology, brainstorming general study approaches, or confirming calculations *after* doing the work yourself. **You must acknowledge collaboration with AI or other individuals**, e.g. “I used Gemini to clarify CRISPR” or “I used Gemini to check my calculation for Problem 3”. (This level of disclosure is standard practice for academic journals and internal operations at most biotechnology companies.) You may not ask an AI or another human directly for an answer or represent their work as your own. (This is also professional standard practice, as well as just basic ethics.)
+
+**Exam prep**
+
+You may use AI to produce study guides or practice questions. However, only upload course materials to Google’s Gemini or NotebookLM through your Colby Google account. Our institutional license ensures your inputs and materials remain secure within Colby’s system and are not used for AI model training. Please review [Colby’s data security guidelines](https://sites.google.com/colby.edu/explore-ai/available-ai-tools) to see what types of content are safe to submit to Gemini and other AIs. 
+
+**Quizzes**
+
+No use of AI (or consultation with other people) is allowed when taking a quiz.
+
 
 ### Learning management platform
 
