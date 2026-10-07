@@ -1,7 +1,28 @@
 # BI279 Glossary
 
-## Week 6: Gene regulation
+## Week 6: The Genetic Code; Translation; Gene regulation
 
+- **Triplet Code**: The fundamental nature of the genetic code, where genetic information is written in units of three ribonucleotide letters. Evidence for this came from **Francis Crick's** experiments with frameshift mutations.
+- **Codon**: A three-nucleotide sequence within an mRNA molecule that specifies a particular amino acid or signals the termination of protein synthesis.
+- **Degenerate Code**: A key feature of the genetic code, meaning that a given amino acid can be specified by more than one codon.
+- **Unambiguous Code**: A feature of the genetic code where a single codon specifies only one amino acid.
+- **Reading Frame**: The specific grouping of ribonucleotides read in groups of three (codons) during translation. The addition or deletion of nucleotides not in multiples of three results in a **frameshift mutation**, altering all subsequent codons.
+- **Marshall Nirenberg and Heinrich Matthaei**: Scientists who deciphered the genetic code. Nirenberg and Matthaei first linked a specific codon (UUU) to an amino acid (phenylalanine) using a cell-free protein-synthesizing system and synthetic RNA homopolymers.
+- **Har Gobind Khorana**: A researcher who synthesized long RNA molecules with repeating di-, tri-, and tetranucleotide sequences to confirm and clarify codon assignments.
+- **Translation**: The process of protein synthesis where the sequence of codons in an mRNA molecule is decoded by a ribosome to produce a polypeptide chain with a specific sequence of amino acids.
+- **Ribosome**: A complex cellular machine made of ribosomal RNA (rRNA) and proteins that serves as the site for translation. It has a large and a small subunit and contains three sites: the aminoacyl (A) site, the peptidyl (P) site, and the exit (E) site.
+- **Transfer RNA (tRNA)**: A small RNA molecule that acts as an adaptor between mRNA and amino acids during translation. Each tRNA has an **anticodon** complementary to an mRNA codon and carries a specific amino acid.
+- **Anticodon**: A sequence of three nucleotides in a tRNA molecule that base-pairs with a complementary codon in an mRNA molecule.
+- **Charged tRNA (Aminoacyl-tRNA)**: A tRNA molecule to which its cognate (correct) amino acid has been enzymatically attached.
+- **Wobble Hypothesis**: Proposed by Francis Crick, this idea suggests that the base-pairing rules are relaxed at the third position of the codon, allowing the anticodon of a single tRNA to recognize more than one codon.
+- **Start (Initiator) Codon**: The first codon of an mRNA to be translated, which is almost always **AUG** and specifies the amino acid methionine.
+- **Stop (Termination) Codon**: One of three codons (**UAA**, **UAG**, **UGA**) that do not specify an amino acid but instead signal for the termination of translation. 
+- **Nonsense Mutation**: A mutation that creates a stop codon within a gene's coding sequence, which results in the premature termination of translation and the synthesis of an incomplete polypeptide.
+- **Initiator tRNA**: A specialized transfer RNA (tRNA) that recognizes the start codon on an mRNA molecule to begin the process of protein synthesis, or translation. The initiator tRNA is distinct from the tRNA used for adding methionine at internal positions during elongation. In bacteria, the initiator tRNA carries a specially modified methionine called **formyl-methionine (f-Met)**.
+- **Shine-Dalgarno Sequence**: A sequence in prokaryotic mRNA (consensus 5'-AGGAGG-3') that serves as a ribosome binding site, positioning the ribosome correctly at the start codon to initiate translation.
+- **Kozak Sequence**: A consensus sequence in eukaryotic mRNA, that surrounds the start codon (AUG). The presence of this sequence increases the efficiency of translation initiation, as the scanning ribosome more readily recognizes and begins translation at an AUG embedded in this context. It was named after its discoverer, Marilyn Kozak.
+- **Release Factors (RFs)**: Proteins that recognize the stop codons when they appear in the A-site of the ribosome. The binding of a release factor to the A-site promotes the release of the completed polypeptide chain from the peptidyl-tRNA located in the P-site. 
+- **Ribosome Recycling Factor (RRF)**: Following the release of the polypeptide, this factor prompts the disassembly of the translation machinery, causing the mRNA, small ribosomal subunit, and large ribosomal subunit to separate. This allows the components to be recycled for another round of translation.
 - **Mutation**: A heritable change in the DNA sequence when compared to a reference organism. Mutations are the source of genetic variation in a population and can be beneficial, harmful, or neutral.
 - **Somatic Mutation**: A mutation occurring in a non-reproductive (somatic) cell that is passed on to daughter cells through mitosis but is not inherited by offspring. An individual with a somatic mutation is considered a **mosaic**.
 - **Germline Mutation**: A mutation that occurs in germ cells (egg or sperm) and can be passed on to the next generation, resulting in the mutation being present in every cell of the offspring's body.

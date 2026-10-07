@@ -1,7 +1,15 @@
 # BI279 Glossary
 
-## Week 5: Transcription; the Genetic code; Translation
+## Week 5: Hybridization technologies; CRISPR; Transcription
 
+- **Hybridization Chain Reaction (HCR)**: A method that uses a series of complementary DNA probes that detect a target mRNA sequence and amplify that signal through a series of partially complementary additional DNA oligonucleotides with fluorescent labels. Several different probes with unique labels can be used to “multiplex” detection of multiple target mRNA at the same time.
+- **Nuclease**: An enzyme that cuts the sugar-phosphate backbone of a nucleic acid polymer. An exonuclease cut from a free 3' or 5' end. An endonuclease cuts somewhere along the polymer.
+- **Base Editing**: A method to change a specific nucleotide from one to another. The process uses a version of Cas9 that can only cut (or "nick") one strand of DNA beside the target based. The Cas9 protein is fused to a nucleotide deaminase that allows for irreversible chemical conversion of a base with an amino group into one with a carbonyl group. That is, C to T or A to G.
+- **CRISPR Interference (CRISPRi)**: A CRISPR-derived method to regulate transcription of a target gene. The method used a "dead" version of Cas9 to a target a specific DNA sequence, typically a gene's promoter. The dCas9 is fused to a transcriptional repressor domain. The bulk of the complex and the repressor domain then block RNA polymerase from initiating transcription, effectively silencing the gene without altering the DNA.
+- **CRISPR Activation (CRISPRa)**: A CRISPR-derived method to regulate transcription of a target gene. The method used a "dead" version of Cas9 to a target a specific DNA sequence, typically a gene's promoter. The dCas9 is fused to a transcriptional activator domain. When directed to a promoter, it recruits the cell's transcriptional machinery to artificially up-regulate the target gene's expression.
+- **Germline cells**: Cells that will give rise to gametes, and ultimately contribute to offspring. Mutations or genome edits to the DNA of germline cells may be inherited by offspring.
+- **Somatic cells**: Cells that are part of an individual animal’s body. These cells will die with the individual. Somatic mutations or genome edits in somatic cells may affect the phenotype (including health) of that individual but cannot be passed on to later generations.
+- **The Central Dogma**: The principle that describes the directional flow of genetic information from DNA to RNA (via transcription) and then to protein (via translation).
 - **Transcription**: The process by which the genetic information stored in a DNA template is synthesized into a complementary RNA molecule. It is the initial step in the flow of information from DNA to protein.
 - **RNA Polymerase**: The enzyme that directs the synthesis of RNA based on the sequence of nucleotides in DNA template. 
 - **sigma (σ) factor**: A protein subunit of RNA polymerase in *E. coli* and other bacteria that binds to DNA and is essential for recognizing promoter sequences to initiate transcription.
@@ -20,25 +28,3 @@
 - **Splicing**: A process in eukaryotes where non-coding sequences called **introns** are removed from the pre-mRNA, and the coding sequences, or **exons**, are joined together to form a mature mRNA.
 - **Spliceosome**: A large molecular complex composed of small nuclear ribonucleoproteins (**snRNPs**) that recognizes splice sites and catalyzes the removal of introns from eukaryotic pre-mRNA.
 - **Alternative Splicing**: A regulated process in which different exons from a single pre-mRNA can be included or excluded, allowing a single gene to produce multiple distinct mRNAs and, consequently, different protein isoforms.
-- **The Central Dogma**: The principle that describes the directional flow of genetic information from DNA to RNA (via transcription) and then to protein (via translation).
-- **Triplet Code**: The fundamental nature of the genetic code, where genetic information is written in units of three ribonucleotide letters. Evidence for this came from **Francis Crick's** experiments with frameshift mutations.
-- **Codon**: A three-nucleotide sequence within an mRNA molecule that specifies a particular amino acid or signals the termination of protein synthesis.
-- **Degenerate Code**: A key feature of the genetic code, meaning that a given amino acid can be specified by more than one codon.
-- **Unambiguous Code**: A feature of the genetic code where a single codon specifies only one amino acid.
-- **Reading Frame**: The specific grouping of ribonucleotides read in groups of three (codons) during translation. The addition or deletion of nucleotides not in multiples of three results in a **frameshift mutation**, altering all subsequent codons.
-- **Marshall Nirenberg and Heinrich Matthaei**: Scientists who deciphered the genetic code. Nirenberg and Matthaei first linked a specific codon (UUU) to an amino acid (phenylalanine) using a cell-free protein-synthesizing system and synthetic RNA homopolymers.
-- **Har Gobind Khorana**: A researcher who synthesized long RNA molecules with repeating di-, tri-, and tetranucleotide sequences to confirm and clarify codon assignments.
-- **Translation**: The process of protein synthesis where the sequence of codons in an mRNA molecule is decoded by a ribosome to produce a polypeptide chain with a specific sequence of amino acids.
-- **Ribosome**: A complex cellular machine made of ribosomal RNA (rRNA) and proteins that serves as the site for translation. It has a large and a small subunit and contains three sites: the aminoacyl (A) site, the peptidyl (P) site, and the exit (E) site.
-- **Transfer RNA (tRNA)**: A small RNA molecule that acts as an adaptor between mRNA and amino acids during translation. Each tRNA has an **anticodon** complementary to an mRNA codon and carries a specific amino acid.
-- **Anticodon**: A sequence of three nucleotides in a tRNA molecule that base-pairs with a complementary codon in an mRNA molecule.
-- **Charged tRNA (Aminoacyl-tRNA)**: A tRNA molecule to which its cognate (correct) amino acid has been enzymatically attached.
-- **Wobble Hypothesis**: Proposed by Francis Crick, this idea suggests that the base-pairing rules are relaxed at the third position of the codon, allowing the anticodon of a single tRNA to recognize more than one codon.
-- **Start (Initiator) Codon**: The first codon of an mRNA to be translated, which is almost always **AUG** and specifies the amino acid methionine.
-- **Stop (Termination) Codon**: One of three codons (**UAA**, **UAG**, **UGA**) that do not specify an amino acid but instead signal for the termination of translation. 
-- **Nonsense Mutation**: A mutation that creates a stop codon within a gene's coding sequence, which results in the premature termination of translation and the synthesis of an incomplete polypeptide.
-- **Initiator tRNA**: A specialized transfer RNA (tRNA) that recognizes the start codon on an mRNA molecule to begin the process of protein synthesis, or translation. The initiator tRNA is distinct from the tRNA used for adding methionine at internal positions during elongation. In bacteria, the initiator tRNA carries a specially modified methionine called **formyl-methionine (f-Met)**.
-- **Shine-Dalgarno Sequence**: A sequence in prokaryotic mRNA (consensus 5'-AGGAGG-3') that serves as a ribosome binding site, positioning the ribosome correctly at the start codon to initiate translation.
-- **Kozak Sequence**: A consensus sequence in eukaryotic mRNA, that surrounds the start codon (AUG). The presence of this sequence increases the efficiency of translation initiation, as the scanning ribosome more readily recognizes and begins translation at an AUG embedded in this context. It was named after its discoverer, Marilyn Kozak.
-- **Release Factors (RFs)**: Proteins that recognize the stop codons when they appear in the A-site of the ribosome. The binding of a release factor to the A-site promotes the release of the completed polypeptide chain from the peptidyl-tRNA located in the P-site. 
-- **Ribosome Recycling Factor (RRF)**: Following the release of the polypeptide, this factor prompts the disassembly of the translation machinery, causing the mRNA, small ribosomal subunit, and large ribosomal subunit to separate. This allows the components to be recycled for another round of translation.
