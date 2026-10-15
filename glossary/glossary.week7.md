@@ -1,7 +1,14 @@
 # BI279 Glossary
 
-## Week 7: microRNAs; RNA interference; mitosis; meiosis
+## Week 7: Epigenetics; mitosis; meiosis
 
+- **Epigenetics**: The study of heritable changes in gene expression and phenotype that occur without altering the underlying DNA sequence. These changes are often mediated by modifications to chromatin.
+- **Chromatin Remodeling**: The dynamic process of altering chromatin structure to control the accessibility of DNA to regulatory proteins and transcription machinery. This can involve sliding or ejecting **nucleosomes**.
+- **Histone Acetylation**: A reversible modification where acetyl groups are added to histone tails by **histone acetyltransferases (HATs)**. This generally weakens the DNA-histone interaction, creating a more open chromatin structure that is accessible for transcription.
+- **DNA Methylation**: An epigenetic mark involving the addition of a methyl group to DNA, typically at cytosine bases in **CpG islands**. High levels of DNA methylation are often associated with transcriptional silencing.
+- **Genomic Imprinting**: An epigenetic process that causes genes to be expressed in a parent-of-origin-specific manner. Either the maternal or paternal allele of an imprinted gene is silenced, typically by DNA methylation, so that only one copy is active.
+- **microRNA (miRNA)**: A class of small non-coding RNA that plays a key role in post-transcriptional gene regulation by binding to complementary sequences on target mRNAs, leading to either their degradation or the blockage of their translation.
+- **RNA Interference (RNAi)**: A biological process where small RNA molecules, such as miRNAs, specifically inhibit the expression of a target gene by degrading its mRNA or blocking translation. This mechanism is also used as a tool in reverse genetics.
 - **microRNAs (miRNAs):** Naturally occurring regulatory RNAs encoded in the genome. They function to regulate target genes by reducing translation of their mRNAs.
 - **dsRNAs (double-stranded RNAs):** Complementary RNA strands, including miRNAs and double-stranded RNA used experimentally in RNA interference (RNAi).
 - **Dicer:** An enzyme that cuts double-stranded RNAs (dsRNAs) to produce single-stranded guide RNAs, typically 22 nucleotides long.
