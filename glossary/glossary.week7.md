@@ -1,12 +1,29 @@
 # BI279 Glossary
 
-## Week 7: Epigenetics; mitosis; meiosis
+## Week 7: Gene regulation; Epigenetics
 
-- **Epigenetics**: The study of heritable changes in gene expression and phenotype that occur without altering the underlying DNA sequence. These changes are often mediated by modifications to chromatin.
+- **Constitutive Gene Expression**: The continuous, unregulated transcription of a gene at a relatively constant level regardless of environmental conditions or cellular states. Genes expressed in this manner, often referred to as "housekeeping genes," typically encode essential proteins required for basic cellular maintenance and survival, in contrast to regulated genes that are only turned on or off in response to specific signals.
+- **Operon**: A single transcriptional unit found in prokaryotes that contains multiple, functionally related genes grouped together under the control of a single promoter. It produces a single **polycistronic mRNA**.
+- **Lac Operon**: A well-studied *E. coli* operon that contains the genes required for lactose metabolism and is transcriptionally regulated by both a repressor (**LacI**) and an activator (**CAP**) in response to the presence of lactose and absence of glucose.
+- **Operator**: A specific DNA sequence located near or overlapping a gene's promoter to which a repressor protein binds, thereby physically blocking transcription initiation.
+- **Catabolite Activator Protein (CAP)**: A transcriptional activator that, when bound to **cyclic AMP (cAMP)** in low-glucose conditions, helps RNA polymerase bind to the *lac* promoter, thereby increasing transcription rates.
+- **Anabolism:** The set of metabolic pathways that construct complex molecules from smaller units. These processes are generally endergonic, meaning they require an input of energy to build cellular structures like proteins and nucleic acids. Tryptophan metabolism in *E. coli* is one example of an anabolic pathway.
+- **Catabolism:** The set of metabolic pathways that break down complex molecules into smaller, simpler units. These processes are exergonic, releasing energy that the organism can capture and use to drive other functions. Lactose metabolism in *E. coli* is one example of a catabolic pathway. Glycolysis is also a catabolic process.
+- **trp Operon**: A repressible operon in *E. coli* that contains a cluster of genes encoding enzymes necessary for the biosynthesis of the amino acid tryptophan. It is typically active when cellular tryptophan concentrations are low; when tryptophan is abundant, it acts as a corepressor by binding to the trp repressor protein, which then binds to the operator sequence to block RNA polymerase and shut down transcription.
+- **Positive Control**: A regulatory mechanism in which transcription is actively stimulated or turned "on" only when a specific regulatory protein (an activator) binds to the DNA. Without the active binding of this activator protein to the promoter or enhancer region, RNA polymerase cannot efficiently initiate transcription.
+- **Negative Control**: A regulatory mechanism in which transcription is inhibited or turned "off" when a specific regulatory protein (a repressor) binds to the DNA. In this system, transcription occurs continuously by default and is only halted when the repressor physically blocks RNA polymerase from progressing.
+
+- **Inducible System**: A regulatory system in which transcription of a specific gene or operon is typically "off" by default, but can be activated (induced) in response to a specific environmental signal in the forms of small molecule (the inducer). A classic example is the *lac* operon in *E. coli*, which remains repressed until the inducer (lactose) is present to inactivate the repressor protein and allow transcription to proceed.
+- **Repressible System**: A regulatory system in which transcription of a specific gene or operon is typically "on" by default, but can be repressed in response to a specific environmental signal in the form of a small molecule (the repressor). A classic example is the *trp* operon in *E. coli*, where transcription proceeds continuously until an abundance of the end-product (tryptophan) binds to and activates a repressor protein, which then binds to the operator DNA sequence to block RNA polymerase and halt further gene expression.
+- **Negative Feedback**: A regulatory mechanism in which the end product of a genetic or metabolic pathway inhibits its own continued production. As the product accumulates to a certain threshold, it directly or indirectly acts to repress the transcription of the gene (or genes) responsible for its synthesis, thereby maintaining cellular homeostasis and preventing the wasteful overproduction of molecules.
+
+- **Enhancer**: A regulatory DNA sequence in eukaryotes that can be located far from the gene it regulates (upstream, downstream, or within an intron) and contains binding sites for activator and repressor proteins. DNA looping brings the enhancer into close proximity with the promoter.
+- **Silencer**: A regulatory DNA sequence in eukaryotes that binds repressor proteins to decrease or block the transcription of a target gene.**Epigenetics**: The study of heritable changes in gene expression and phenotype that occur without altering the underlying DNA sequence. These changes are often mediated by modifications to chromatin.
 - **Chromatin Remodeling**: The dynamic process of altering chromatin structure to control the accessibility of DNA to regulatory proteins and transcription machinery. This can involve sliding or ejecting **nucleosomes**.
 - **Histone Acetylation**: A reversible modification where acetyl groups are added to histone tails by **histone acetyltransferases (HATs)**. This generally weakens the DNA-histone interaction, creating a more open chromatin structure that is accessible for transcription.
 - **DNA Methylation**: An epigenetic mark involving the addition of a methyl group to DNA, typically at cytosine bases in **CpG islands**. High levels of DNA methylation are often associated with transcriptional silencing.
 - **Genomic Imprinting**: An epigenetic process that causes genes to be expressed in a parent-of-origin-specific manner. Either the maternal or paternal allele of an imprinted gene is silenced, typically by DNA methylation, so that only one copy is active.
+- **Genomic Sexual Conflict** (also known as *intralocus sexual conflict*): Occurs when a single gene or locus is selected for different optimal values in males and females. Because both sexes share almost the same genome (with the exception of sex-specific chromosomes like the Y or W), an allele that increases evolutionary fitness in one sex may decrease fitness or prove detrimental when expressed in the other, leading to a tug-of-war in natural selection. Evolutionary processes can resolve this conflict by allowing sex-specific gene expression.
 - **microRNA (miRNA)**: A class of small non-coding RNA that plays a key role in post-transcriptional gene regulation by binding to complementary sequences on target mRNAs, leading to either their degradation or the blockage of their translation.
 - **RNA Interference (RNAi)**: A biological process where small RNA molecules, such as miRNAs, specifically inhibit the expression of a target gene by degrading its mRNA or blocking translation. This mechanism is also used as a tool in reverse genetics.
 - **microRNAs (miRNAs):** Naturally occurring regulatory RNAs encoded in the genome. They function to regulate target genes by reducing translation of their mRNAs.
@@ -15,31 +32,5 @@
 - **Argonaute (Ago) proteins:** Proteins that bind to the single-stranded guide RNAs produced by Dicer to form the RNA-induced silencing complex (RISC).
 - **RNA-induced silencing complex (RISC):** The complex formed when guide RNAs bind to Argonaute (Ago) proteins.
 - **RNA-dependent RNA polymerase (RdRP)**: An enzyme that creates a new complementary RNA using the RISC-bound messenger RNA (mRNA) as a template. This action results in more dsRNA, which serves to amplify the gene silencing effect. The RdRP pathway is part of the mechanism of microRNA (miRNA) action and RNA interference (RNAi).
-- **RNA interference (RNAi):** The experimental use of double-stranded RNA (dsRNA) to regulate gene expression. RNAi can be used in experiments or therapeutics.  
-- **Cell cycle:** The process during which a cell copies its genome and prepares for cell division.
-- **G1 Phase:** A stage of the cell cycle dedicated to cell growth.
-- **S Phase (Synthesis):** The stage of the cell cycle during which the genome is copied (DNA replication).
-- **G2 Phase:** A stage of the cell cycle dedicated to cell growth, which cells undergoing meiosis do not usually have.
-- **M Phase:** The stage that includes mitosis and cytokinesis.
-- **Mitosis:** The process of dividing chromosomes among daughter cells. It separates duplicated copies of the genome (equatorial cell division) to generate new somatic cells.
-- **Prophase:** The first stage of mitosis when DNA is condensed, the nuclear envelope is deconstructed, the spindle apparatus is formed, chromosomes are attached to spindle fibers and begin to be positioned in the center of the cell.
-- **Metaphase:** A stage of mitosis during which chromosomes are lined up along the metaphase plate.
-- **Anaphase:** A stage of mitosis during which the chromosomes are divided or pulled to the poles using microtubules.
-- **Telophase:** The last stage of mitosis when the spindle is deconstructed, nuclear envelopes reform around the now-separated chromosomes.
-- **Cytokinesis:** The process of separating the cytoplasm, which happens at the conclusion of M phase. While cytokinesis usually happens after nuclear division in animal cells, it is not universal.
-- **Sister Chromatids:** The two identical double-stranded DNA molecules that make up a chromosome after S phase.
-- **Meiosis:** Reductive cell division that produces cells with half of a diploid genome in preparation for sexual reproduction. It reduces the chromosome number through two cell divisions.
-- **Meiosis I:** The first meiotic division, listed as a key term associated with reductional division.
-- **Meiosis II:** The second meiotic division, listed as a key term associated with equational division.
-- **Gametes:** The cells (egg or sperm) that fuse during sexual reproduction and contain half the number of chromosomes (haploid) as the adult organism.
-- **Homologous chromosomes:** The copies of a chromosome present in a diploid cell (one from each parent); they are very similar but not identical. They may different in alleles or may have chromosomal structural variants.
-- **Synapsis:** The pairing up of homologous chromosomes that occurs during prophase I of meiosis.
-- **Bivalent:** A term related to the paired homologous chromosomes during meiosis.
-- **Tetrad:** The structure composed of 2 pairs of sister chromatids. Homologous chromosomes within the tetrad separate during Anaphase I.
-- **Crossing over:** The process that occurs during synapsis, where non-sister chromatids exchange genetic material, leading to recombination between linked loci.
-- **Chiasma** (plural: **Chiasmata**): The cytologically observable regions of crossover between chromatids.
-- **Polar bodies:** Cells produced during gamete maturation in females (ovum maturation).
-- **Ploidy (n):** Indicates the number of chromosomes in a single, haploid copy of the genome, used with a multiplier (e.g., 2n for diploid).
-- **Haploid (1n):** Cells that have only a single copy of each chromosome.
-- **Diploid (2n):** Organisms or cells that have two copies of the genome.
-
+- **RNA interference (RNAi):** The experimental use of double-stranded RNA (dsRNA) to regulate gene expression. RNAi can be used in experiments or therapeutics.
+- 
