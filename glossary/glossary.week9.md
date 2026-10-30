@@ -2,10 +2,14 @@
 
 ## Week 9: Gene interactions; sex effects
 
+- **Incomplete Penetrance**: Occurs when an individual has the genotype for a trait but does not express the corresponding phenotype.
+- **Variable Expressivity**: Occurs when individuals with the same genotype exhibit a range in the severity or expression of a phenotype.
+- **Chi-square test**: A statistical test used to compare observed genetic data (such as offspring ratios) with the results expected from a hypothetical genetic model.
 - **Lethal Alleles**: Mutations in essential genes that are not compatible with life, often causing death during embryonic development, although in principle lethal alleles can cause death at any life stage.
 - **Essential Gene**: A gene whose functions are crucial for the development or survival of the organism.
 - **Recessive Lethal Alleles**: Mutations where lethality requires two (homozygous) copies of the allele.
 - **Dominant Lethal Alleles**: Alleles that cause death even in heterozygotes. They are only maintained in a population if they impact viability after reproductive maturity (e.g., Huntington's Disease which typically manifests in middle age).
+- **Incomplete Penetrance**: Occurs when an individual has the genotype for a trait but does not express the corresponding phenotype.
 - **Pleiotropy**: The phenomenon where one gene influences two or more seemingly unrelated phenotypic traits (a gene exhibiting this is called a pleiotropic gene).
 - **Gene Interaction**: Occurs when genes at multiple loci collectively determine a single phenotype.
 - **Epistasis**: A specific type of gene interaction where the phenotype of one locus masks or prevents the phenotypic expression of a second locus.

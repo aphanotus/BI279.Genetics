@@ -28,7 +28,6 @@
 - **Ploidy (n):** Indicates the number of chromosomes in a single, haploid copy of the genome, used with a multiplier (e.g., 2n for diploid).
 - **Haploid (1n):** Cells that have only a single copy of each chromosome.
 - **Diploid (2n):** Organisms or cells that have two copies of the genome.
-
 - **Gene**: A segment of DNA that is responsible for one or more phenotypes. Operationally defined as a unit of inheritance.
 - **Allele**: Different versions of a gene. In a diploid organism, there can be up to two different alleles at a single locus.
 - **Locus** (pl. **Loci**): A specific position, region, or segment along a chromosome where a gene is located. Defined genetically, but not necessarily at the molecular level.
@@ -63,9 +62,6 @@
 - **Carrier**: An individual who does not express the symptoms of a disease but possesses a recessive mutant allele that can be passed to offspring.
 - **Autosomal Dominant**: A mode of inheritance where the trait is controlled by a gene on an autosome, and only one copy of the allele is required for the phenotype to be expressed.
 - **Autosomal Recessive**: A mode of inheritance where the trait is controlled by a gene on an autosome, and two copies of the allele are required for the phenotype to be expressed.
-- **Incomplete Penetrance**: Occurs when an individual has the genotype for a trait but does not express the corresponding phenotype.
-- **Variable Expressivity**: Occurs when individuals with the same genotype exhibit a range in the severity or expression of a phenotype.
-- **Chi-square test**: A statistical test used to compare observed genetic data (such as offspring ratios) with the results expected from a hypothetical genetic model.
 - **AND Rule** (**Product Rule** or **Multiplication Rule**): A rule of probability used to calculate the likelihood of two or more independent events (like segregation of alleles at two different loci) occurring together.
 - **OR Rule** (**Sum Rule** or Addition Rule): A rule of probability used to calculate the likelihood of any one of two or more mutually exclusive events occurring.
 - **Phenotypic Classes**: The distinct combinations of phenotypes observed among the progeny of a cross (e.g., four classes in a dihybrid cross: AB, Ab, aB, and ab).
