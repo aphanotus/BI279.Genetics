@@ -1,7 +1,14 @@
 # BI279 Glossary
 
-## Week 9: Gene interactions; sex effects
+## Week 9: Beyond Mendel; Gene interactions; sex effects
 
+- **Complete Dominance**: An allelic relationship where the phenotype of the heterozygote is identical to the phenotype of the dominant homozygote.
+- **Partial Dominance** (also called Incomplete Dominance): An allelic relationship where the heterozygote exhibits a phenotype that is intermediate compared to the two homozygotes.
+- **Codominance**: An allelic relationship where both alleles are simultaneously and fully expressed in the phenotype of the heterozygote (e.g., the AB blood type).
+- **Multiple Alleles**: The existence of three or more distinct alleles for a single gene locus within a population.
+- **ABO Blood Group**: A classic example of multiple alleles where three alleles exist at a single locus, demonstrating both codominance and complete dominance.
+- **Haploinsufficient**: Describes a gene where a single functional copy of the allele is insufficient to produce the wild-type phenotype, often resulting in a dominant mutant phenotype.
+- **Compound heterozygotes**: Individuals who have two different mutant alleles (different base pair changes) at a given locus.
 - **Incomplete Penetrance**: Occurs when an individual has the genotype for a trait but does not express the corresponding phenotype.
 - **Variable Expressivity**: Occurs when individuals with the same genotype exhibit a range in the severity or expression of a phenotype.
 - **Chi-square test**: A statistical test used to compare observed genetic data (such as offspring ratios) with the results expected from a hypothetical genetic model.
@@ -9,7 +16,6 @@
 - **Essential Gene**: A gene whose functions are crucial for the development or survival of the organism.
 - **Recessive Lethal Alleles**: Mutations where lethality requires two (homozygous) copies of the allele.
 - **Dominant Lethal Alleles**: Alleles that cause death even in heterozygotes. They are only maintained in a population if they impact viability after reproductive maturity (e.g., Huntington's Disease which typically manifests in middle age).
-- **Incomplete Penetrance**: Occurs when an individual has the genotype for a trait but does not express the corresponding phenotype.
 - **Pleiotropy**: The phenomenon where one gene influences two or more seemingly unrelated phenotypic traits (a gene exhibiting this is called a pleiotropic gene).
 - **Gene Interaction**: Occurs when genes at multiple loci collectively determine a single phenotype.
 - **Epistasis**: A specific type of gene interaction where the phenotype of one locus masks or prevents the phenotypic expression of a second locus.
@@ -19,12 +25,4 @@
 - **Genetic Background**: The influence of numerous weak epistatic interactions (between multiple genes) that affect a single phenotype.
 - **Genetic Suppression**: A type of mutation that makes the phenotype look more wild-type (less mutant) by overriding another mutation.
 - **Genetic Enhancement**: A type of mutation that makes the phenotype more mutant (less wild type) by increasing the severity of another mutation.
-Complementation
-- **Complementation Analysis (Test)**: Crosses used to determine if two independent mutations causing a similar phenotype are alleles of the same gene.
-- **Complementation**: Occurs when crossing two homozygous mutants yields a wild-type phenotype in the F1 progeny, indicating the mutations are in different genes.
-- **Complementation Group**: A group of mutant strains that fail to complement one another; all members of the group are presumed to harbor mutations in the same gene.
-- **Allelic Mutations**: Two mutations that cause a similar phenotype and reside in the same gene.
-- **Maternal Effect Inheritance**: An inheritance pattern where the offspring’s phenotype is determined by the genotype of the mother, regardless of the offspring's own genotype.
-- **Maternal mRNA**: Cytoplasmic mRNA loaded into the oocyte (egg cell) that quickly produces protein after fertilization, driving early embryonic phenotypes.
-- **Sex-Limited Trait (Sex Limitation)**: A trait where the expression of the phenotype is restricted to only one sex. (Loci responsible for sex-limited traits may be linked to autosomes or sex chromosomes.)
-- **Sex-Influenced Trait (Sex Influence)**: A trait where the phenotype is modulated or influenced by the sex of the individual. (Loci responsible for sex-influenced traits may be linked to autosomes or sex chromosomes.)
+  Complementation
